@@ -38,3 +38,29 @@
 pre {
   tab-size: 4;
 }
+
+.team-headling {
+  text-align: center;
+  box-shadow: inset 0 -0.02em #4fb1ba;
+}
+.team-container {
+	column-count: 3;
+}
+.team-member {
+  border-style: solid;
+  border-color: gainsboro;
+  border-width: 1px;
+  border-radius: 2px;
+  padding-bottom: 20px;
+}
+.team-member-info {
+  display: block;
+  text-align: center;
+}
+.team-member-name {
+  font-size: 1rem;
+  color: #999999;
+}
+.team-member-position {
+  font-size: 1.25rem;
+}

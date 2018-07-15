@@ -1,8 +1,6 @@
 ---
-layout: about
 title: About
-description: >
-
+layout: about
 menu: true
 order: 6
 ---
@@ -12,3 +10,22 @@ My habits are research on technology or code some small programs to practice wha
 (almost [here](https://github.com/sontx)).
 I think these projects could be useful for someone,
 so if you need some helps with these projects, please feel free to contact me ([work](mailto:xuanson33bk@gmail.com) or [beer](https://facebook.com/noem.bk)) :blush:
+
+<h1 class="team-headling">OUR AMAZING TEAM<h1>
+<div class="team-container">
+	<div class="team-member">
+		<img src="/assets/img/author.jpg"/>
+		<span class="team-member-info team-member-position">Developer</span>
+		<span class="team-member-info team-member-name">sontx</span>
+	</div>
+	<div class="team-member">
+		<img src="/assets/img/author1.jpg"/>
+		<span class="team-member-info team-member-position">Designer</span>
+		<span class="team-member-info team-member-name">No Em</span>
+	</div>
+	<div class="team-member">
+		<img src="/assets/img/author2.jpg"/>
+		<span class="team-member-info team-member-position">Tester</span>
+		<span class="team-member-info team-member-name">Son Tran Xuan</span>
+	</div>
+</div>
