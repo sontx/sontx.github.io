@@ -13,5 +13,5 @@ Nếu ai có hứng thú muốn tìm hiểu hoặc tiếp cận với các công
 Toàn bộ source code của project các bạn có thể xem ở [đây](https://github.com/sontx/detect-a-person-in-video).
 
 <div class="video-wrapper">
-  <iframe src="http://www.youtube.com/embed/ZuPnoOoBlYU" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/ZuPnoOoBlYU" frameborder="0" allowfullscreen></iframe>
 </div>

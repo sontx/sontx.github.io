@@ -24,7 +24,7 @@ customize then rebuild by:
 1. Run `install.bat` in [scripts](https://github.com/sontx/chat-socket/tree/master/scripts) folder.
 1. `mvn clean compile assembly:single` (the binary file will be placed in **target** folder)
 
-> This project requires [jdk 1.8 or later](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
+> This project requires [jdk 1.8 or later](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
 ## Usage
 Both server and client are in **homechat.jar**.
@@ -76,14 +76,14 @@ All users data will be saved in **user.json** file.
 ## Dependencies
 
  - [**common-lang3**](https://commons.apache.org/proper/commons-lang/).
- - [**java-json**](http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm)
+ - [**java-json**](https://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm)
  - [**jackson**](https://github.com/FasterXML/jackson)
  - [**commons-text**](https://commons.apache.org/proper/commons-text/)
  - [**commons-cli**](https://commons.apache.org/proper/commons-cli/)
  - [**lombok**](https://projectlombok.org/)
  - [**log4j**](https://logging.apache.org/log4j)
  - [**eventbus**](https://github.com/sontx/eventbus-1)(desktop supported), original is [here](https://github.com/greenrobot/EventBus) 
- - [**jdk 1.8**](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+ - [**jdk 1.8**](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ## Author
 Developed by sontx/noem, some useful information:

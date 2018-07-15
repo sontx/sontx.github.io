@@ -72,5 +72,5 @@ Ngoài ra bạn còn có thể enable hoặc disable chức năng chặng quản
 Đây là video hướng dẩn cụ thể cách cài đặt và sử dụng admuncher để chặng quảng cáo.
 
 <div class="video-wrapper">
-  <iframe src="http://www.youtube.com/embed/J7Edhu0-0DM" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/J7Edhu0-0DM" frameborder="0" allowfullscreen></iframe>
 </div>

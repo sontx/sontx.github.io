@@ -45,4 +45,4 @@ References
 ------
 
 1. https://vi.wikipedia.org/wiki/Linux
-1. http://www.thegeekstuff.com/2013/11/linux-process-and-threads/comment-page-1/
+1. https://www.thegeekstuff.com/2013/11/linux-process-and-threads/comment-page-1/

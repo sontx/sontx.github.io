@@ -126,7 +126,7 @@ Video demo
 -----
 
 <div class="video-wrapper">
-  <iframe src="http://www.youtube.com/embed/1BwKOOlu49Y" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/1BwKOOlu49Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Yêu cầu
@@ -135,7 +135,7 @@ Yêu cầu
 
 Dự án được code trên ngôn ngữ C# vì thế nếu bạn muốn chỉnh sửa để tạo ra phiên bản giành riêng thì có thể sử dụng Visual Studio để code và biên dịch.
 
-Dự án hotkeys có sử dụng 2 thư viện hổ trợ là [restsharp](http://restsharp.org/) và VirusTotal project.
+Dự án hotkeys có sử dụng 2 thư viện hổ trợ là [restsharp](https://restsharp.org/) và VirusTotal project.
 
 * * *
 

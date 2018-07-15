@@ -107,7 +107,7 @@ Xong việc rồi, thoát khỏi menu này để trở lại màng hình đen hu
 
 Giờ câu hỏi là làm sao để remote terminal được. Kiểu như mình không cần phải lắp màng hình, chuột, bàn phím các thứ vào con rasp nữa mà vẩn có thể remote cái cửa sổ đen huyền bí đó từ laptop của ta(cứ tưởng tượng như kiểu teamview ấy). Câu trả lời khá đơn giản, sử dụng bất cứ ssh client nào và kết nối tới con rasp là xong.
 
-Mình sẽ sử dụng PuTTY trong loạt bài viết này, bạn có thể tải về tại trang chủ: [http://www.putty.org/](http://www.putty.org/)
+Mình sẽ sử dụng PuTTY trong loạt bài viết này, bạn có thể tải về tại trang chủ: [https://www.putty.org/](https://www.putty.org/)
 
 Giao diện của PuTTY như sau:
 

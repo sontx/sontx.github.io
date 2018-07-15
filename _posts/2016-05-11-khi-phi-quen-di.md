@@ -7,5 +7,5 @@ comments: true
 ---
 
 <div class="video-wrapper">
-  <iframe src="http://www.youtube.com/embed/LBfuuFnY44k" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/LBfuuFnY44k" frameborder="0" allowfullscreen></iframe>
 </div>

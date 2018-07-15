@@ -68,5 +68,5 @@ Nếu muốn mọi thứ tự động hơn thì có thể dùng thêm winrar đ�
 Demo
 ----
 <div class="video-wrapper">
-  <iframe src="http://www.youtube.com/embed/0LNC_hboO98" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/0LNC_hboO98" frameborder="0" allowfullscreen></iframe>
 </div>

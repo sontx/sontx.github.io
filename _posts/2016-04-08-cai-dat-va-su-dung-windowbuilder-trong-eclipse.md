@@ -11,7 +11,7 @@ comments: true
 Download WindowBuilder
 --------
 
-Các bạn tải WindowBuilder ở đây: [WindowBuilder Eclipse](http://www.eclipse.org/windowbuilder/download.php), chú ý chọn bản WindowBuilder phù hợp với bản Eclipse hiện tại trong máy nhé.
+Các bạn tải WindowBuilder ở đây: [WindowBuilder Eclipse](https://www.eclipse.org/windowbuilder/download.php), chú ý chọn bản WindowBuilder phù hợp với bản Eclipse hiện tại trong máy nhé.
 
 ![](https://4.bp.blogspot.com/-dvgeNwErhg8/Vwd0dbe6vhI/AAAAAAAAOSE/tPpbzAxi5Js6T8_kINjJ3qjRaKzUDF24g/s1600/Capture.PNG)
 
