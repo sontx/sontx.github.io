@@ -28,6 +28,7 @@ layout: base
 
 {% assign addons = site.hydejack.post_addons %}
 {% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
+{% include fb-like.html %}
 {% for addon in addons %}
   {% case addon %}
   {% when 'about' %}

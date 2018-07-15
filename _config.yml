@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://sontx.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -22,19 +22,21 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 I'm a beginner
 
+emoji:
+  src: "/assets/img"
+
+highlighter:           rouge
+  
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  My personal blog, the old one is [here](https://sontx.blogspot.com/)
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  Life's too short to wait.
 
 # A list of keywords for your blog
 keywords:              []
@@ -45,13 +47,13 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Son Tran Xuan
+  email:               xuanson33bk@gmail.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+twitter:               sontx0
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2017. All rights reserved.
+copyright:             © 2018. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -91,11 +93,11 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-63026871-2
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+disqus:                code4bugs
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -129,7 +131,7 @@ hydejack:
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
-  no_break_layout:     false
+  no_break_layout:     true
 
   # Set to `true` if you do not want to expose your resume and projects
   # in machine-readable formats.
@@ -144,7 +146,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
 
 # Collections
@@ -152,7 +154,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /category/:name/
+    permalink:         /:name/
     output:            true
 
   featured_tags:
@@ -160,7 +162,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projects/:path/
+    permalink:         /unsupported/:path/
     output:            true
 
 
@@ -185,7 +187,7 @@ plugins:
   # - jekyll-avatar
   # - jekyll-default-layout
   - jekyll-feed
-  # - jekyll-gist
+  - jekyll-gist
   # - jekyll-optional-front-matter
   - jekyll-paginate
   # - jekyll-readme-index
@@ -194,7 +196,9 @@ plugins:
   # - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  # - jekyll-titles-from-headings
+  - jekyll-titles-from-headings
+  - jemoji
+  - jekyll-admin
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -215,8 +219,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-#   username:            <shortname>
+twitter:
+   username:            sontx0
 
 # Used for Facebook open graph
 # facebook:
@@ -225,11 +229,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+   name:                Son Tran Xuan
+   links:
+     - https://twitter.com/sontx0
+     - https://github.com/sontx
 
 
 # Other Plugins
