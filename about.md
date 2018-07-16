@@ -9,7 +9,12 @@ I'm come from Vietnam and I was studying at the Danang University of Technology,
 My habits are research on technology or code some small programs to practice what I have just studied
 (almost [here](https://github.com/sontx)).
 I think these projects could be useful for someone,
-so if you need some helps with these projects, please feel free to contact me ([work](mailto:xuanson33bk@gmail.com) or [beer](https://facebook.com/noem.bk)) :blush:
+so if you need some helps with these projects, please feel free to contact me ([work](mailto:xuanson33bk@gmail.com) or [beer](https://facebook.com/noem.bk)) 😊
+
+<div class="logo-container">
+	<img class="logo-image" src="/assets/icons/icon.png"/>
+	<span class="logo-text">Personal Logo</span>
+</div>
 
 <h1 class="team-headling">OUR AMAZING TEAM<h1>
 <div class="team-container">

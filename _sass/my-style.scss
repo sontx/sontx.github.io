@@ -1,3 +1,7 @@
+table {
+  margin-left: 0px !important;
+}
+
 .emoji {
   margin: 0 0 -4px 0 !important;
   vertical-align: baseline !important;
@@ -86,4 +90,21 @@ pre {
   font-weight: 400;
   font-family: Noto Sans;
   color: rgb(51, 51, 51);
+}
+
+.logo-container {
+  text-align: center;
+}
+
+.logo-image {
+  display: inline-block !important;
+  margin-bottom: -16px !important;
+}
+
+.logo-text {
+  display: block;
+  font-size: 16px;
+  color: #4f5d75;
+  font-family: Noto sans-serif;
+  font-weight: normal;
 }
