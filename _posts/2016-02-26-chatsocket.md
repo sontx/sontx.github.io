@@ -13,9 +13,9 @@ comments: true
 Support multiple users, private chat, and personal status.
 This project is based on TCP socket, multithreading, Java serialization, and JSON.
 
-<a href="https://youtu.be/tIEG-Q6liXw">
-<img src="https://3.bp.blogspot.com/-4mgFXugXUps/WzcobCOOhOI/AAAAAAAAVOY/y9D8YMwETGUIrElK5rJy_XT2l_6iO1s7QCLcBGAs/s1600/client-friendlist.PNG">
-</a>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/tIEG-Q6liXw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Installation
 Download the [binary file](https://github.com/sontx/chat-socket/releases) or clone this project and use your favorite IDE to
@@ -88,10 +88,12 @@ All users data will be saved in **user.json** file.
 ## Author
 Developed by sontx/noem, some useful information:
 
- - Home: [www.code4bugs.com](https://code4bugs.com)
- - Blog: [https://sontx.blogspot.com](https://sontx.blogspot.com)
+ - Blog: [https://code4bugs.com](https://code4bugs.com)
  - Email: <a href="mailto:xuanson33bk@gmail.com">xuanson33bk@gmail.com</a>
  - Twitter: [@sontx0](https://twitter.com/sontx0)
 
 ## License
 [MIT](https://github.com/sontx/chat-socket/blob/master/LICENSE)
+
+## Source
+[https://github.com/sontx/chat-socket](https://github.com/sontx/chat-socket)
