@@ -14,18 +14,18 @@ so if you need some helps with these projects, please feel free to contact me ([
 <h1 class="team-headling">OUR AMAZING TEAM<h1>
 <div class="team-container">
 	<div class="team-member">
-		<img src="/assets/img/author.jpg"/>
+		<img class="team-member-avatar" src="/assets/img/author.jpg"/>
+		<span class="team-member-info team-member-name">Gin</span>
 		<span class="team-member-info team-member-position">Developer</span>
-		<span class="team-member-info team-member-name">sontx</span>
 	</div>
 	<div class="team-member">
-		<img src="/assets/img/author1.jpg"/>
-		<span class="team-member-info team-member-position">Designer</span>
+		<img class="team-member-avatar" src="/assets/img/author1.jpg"/>
 		<span class="team-member-info team-member-name">No Em</span>
+		<span class="team-member-info team-member-position">Designer</span>
 	</div>
 	<div class="team-member">
-		<img src="/assets/img/author2.jpg"/>
-		<span class="team-member-info team-member-position">Tester</span>
+		<img class="team-member-avatar" src="/assets/img/author2.jpg"/>
 		<span class="team-member-info team-member-name">Son Tran Xuan</span>
+		<span class="team-member-info team-member-position">Tester</span>
 	</div>
 </div>
