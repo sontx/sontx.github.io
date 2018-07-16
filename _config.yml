@@ -36,7 +36,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Life's too short to wait.
+  Life is simple, I make choices and I don’t look back.
 
 # A list of keywords for your blog
 keywords:              []
@@ -264,7 +264,7 @@ compress_html:
   clippings:           all
   endings:             all
   ignore:
-    envs:              [development]
+    envs:              [production]
 
 sass:
   style:               compressed
