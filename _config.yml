@@ -223,10 +223,10 @@ twitter:
    username:            sontx0
 
 # Used for Facebook open graph
-# facebook:
-#   app_id:              <id>
-#   publisher:           <id>
-#   admins:              <id>
+ facebook:
+   app_id:              290734131670159
+   publisher:           100004072350891
+   admins:              100004072350891
 
 # Used on index and about sites
 social:
