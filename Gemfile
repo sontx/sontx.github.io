@@ -31,6 +31,7 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jemoji"
   gem "jekyll-admin", group: :jekyll_plugins
+  gem 'github-pages'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
