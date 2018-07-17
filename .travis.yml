@@ -1,6 +1,7 @@
 language: ruby
 rvm:
-  - 2.2
-script: "bundle update"
-script: "bundle install"
-script: "bundle exec jekyll build"
+  - 2.5
+script: 
+  - bundle update
+  - bundle install
+  - bundle exec jekyll build
