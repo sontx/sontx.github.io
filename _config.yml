@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url: 'https://sontx.github.io'
+url:                   https://code4bugs.com
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -223,7 +223,7 @@ twitter:
    username:            sontx0
 
 # Used for Facebook open graph
- facebook:
+facebook:
    app_id:              290734131670159
    publisher:           100004072350891
    admins:              100004072350891
@@ -264,7 +264,7 @@ compress_html:
   clippings:           all
   endings:             all
   ignore:
-    envs:              [development]
+    envs:              [production]
 
 sass:
   style:               compressed
