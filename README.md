@@ -1,3 +1,5 @@
+<img src="https://travis-ci.org/sontx/sontx.github.io.svg?branch=master" alt="build:started">
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sontx/sontx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
