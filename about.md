@@ -5,11 +5,11 @@ menu: true
 order: 6
 ---
 
-I'm come from Vietnam and I was studying at the Danang University of Technology, now I'm working for mgm technology partner.
+I'm from Viet Nam and I was studying at the Danang University of Technology, now I'm working for a software company.
 My habits are research on technology or code some small programs to practice what I have just studied
 (almost [here](https://github.com/sontx)).
 I think these projects could be useful for someone,
-so if you need some helps with these projects, please feel free to contact me ([work](mailto:xuanson33bk@gmail.com) or [beer](https://facebook.com/noem.bk)) 😊
+so if you need some helps with these projects, please feel free to contact me ([work](mailto:xuanson33bk@gmail.com) or [beer](https://facebook.com/sontx.dev)) 😊
 
 <div class="logo-container">
 	<img class="logo-image" src="/assets/icons/icon.png"/>
@@ -30,7 +30,7 @@ so if you need some helps with these projects, please feel free to contact me ([
 	</div>
 	<div class="team-member">
 		<img class="team-member-avatar" src="/assets/img/author2.jpg"/>
-		<span class="team-member-info team-member-name">Son Tran Xuan</span>
+		<span class="team-member-info team-member-name">Tran Xuan Son</span>
 		<span class="team-member-info team-member-position">Tester</span>
 	</div>
 </div>

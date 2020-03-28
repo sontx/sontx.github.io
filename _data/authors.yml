@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Son Tran Xuan
+  name:              Tran Xuan Son
   email:             xuanson33bk@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Son and I'm a Software Developer who uses coffee and computes to make software.
+    Hi, I'm Son and I'm a software developer who uses coffee and computes to make software.
 
   # This photo will be used in the about section
   picture:
@@ -21,4 +21,4 @@ author1:
     twitter:         sontx0
     github:          sontx
     email:           mailto:xuanson33bk@gmail.com
-    facebook:        noem.bk
+    facebook:        sontx.dev

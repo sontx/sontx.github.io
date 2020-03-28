@@ -47,13 +47,13 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                Son Tran Xuan
+  name:                Tran Xuan Son
   email:               xuanson33bk@gmail.com
   # Used by `jekyll-seo-tag`:
 twitter:               sontx0
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2018. All rights reserved.
+copyright:             Copyright © 2020. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -230,7 +230,7 @@ facebook:
 
 # Used on index and about sites
 social:
-   name:                Son Tran Xuan
+   name:                Tran Xuan Son
    links:
      - https://twitter.com/sontx0
      - https://github.com/sontx
