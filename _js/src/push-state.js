@@ -219,12 +219,10 @@ function setupVanilla(pushStateEl) {
 }
 
 function reloadFB() {
-  const commentElements = document.getElementsByClassName('fb-comments');
-  const firstOrDefault = commentElements.item(0);
   // eslint-disable-next-line no-undef
-  if (FB && FB.XFBML && firstOrDefault && !firstOrDefault.hasChildNodes()) {
+  if (FB && FB.XFBML) {
     // eslint-disable-next-line no-undef
-    // FB.XFBML.parse();
+    FB.XFBML.parse();
   }
 }
 
