@@ -16286,7 +16286,7 @@ function reloadFB() {
   // eslint-disable-next-line no-undef
   if (FB && FB.XFBML && firstOrDefault && !firstOrDefault.hasChildNodes()) {
     // eslint-disable-next-line no-undef
-    FB.XFBML.parse();
+    // FB.XFBML.parse();
   }
 }
 

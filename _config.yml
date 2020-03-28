@@ -28,7 +28,7 @@ emoji:
   src: "/assets/img"
 
 highlighter:           rouge
-  
+
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
@@ -127,7 +127,7 @@ hydejack:
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This *may* be benefitial when serving the site over HTTP/2.
-  no_inline_css:       false
+  no_inline_css:       true
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
