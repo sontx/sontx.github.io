@@ -176,6 +176,7 @@ exclude:
   - node_modules
   - package.json
   - package-lock.json
+  - .idea
 include:
   - LICENSE.md
 
@@ -217,10 +218,6 @@ plugins:
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
-
-# Used for Twitter cards
-twitter:
-   username:            sontx0
 
 # Used for Facebook open graph
 facebook:

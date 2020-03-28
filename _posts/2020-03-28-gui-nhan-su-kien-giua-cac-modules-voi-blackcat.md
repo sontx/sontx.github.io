@@ -49,11 +49,11 @@ protected override void OnLoad(EventArgs e)
 	base.OnLoad(e);
 }
 
- protected override void OnClosed(EventArgs e)
- {
-	 EventBus.Default.Unregister(this);
-	 base.OnClosed(e);
- }
+protected override void OnClosed(EventArgs e)
+{
+ EventBus.Default.Unregister(this);
+ base.OnClosed(e);
+}
  ```
  
 **Gửi sự kiện cho các subscribers:**
