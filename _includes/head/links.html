@@ -16,14 +16,10 @@
   <link rel="dns-prefetch" href="https://www.google-analytics.com">
 {% endif %}
 
-{% assign disqus = site.disqus | default:site.disqus_shortname %}
-{% if disqus %}
-<link id="_disqusJS" rel="dns-prefetch" href="https://{{ disqus }}.disqus.com/embed.js">
-{% endif %}
-
 {% comment %}<!--
 The links below are here so that we can use their `href` in JS (see `_js/src/katex.js`).
 This way, CDN optimizers or other tools can modify the URL and we avoid hard-coding it in JavaScript.
 -->{% endcomment %}
 <link id="_katexJS"  rel="dns-prefetch" href="{{ '/assets/bower_components/katex/dist/katex.min.js'  | relative_url }}">
 <link id="_katexCSS" rel="dns-prefetch" href="{{ '/assets/bower_components/katex/dist/katex.min.css' | relative_url }}">
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0&appId=226311351902877&autoLogAppEvents=1"></script>

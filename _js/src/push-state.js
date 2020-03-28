@@ -58,7 +58,6 @@ import { animate, empty, getResolvablePromise, hasFeatures, isSafari, isFirefoxI
   from './common';
 import CrossFader from './cross-fader';
 import upgradeMathBlocks from './katex';
-import loadDisqus from './disqus';
 import setupFLIP from './flip';
 
 // ## Constants
@@ -394,14 +393,21 @@ if (!window._noPushState && hasFeatures(REQUIREMENTS) && !isFirefoxIOS) {
   )
     .subscribe();
 
+  function reloadFB() {
+    var commentElements = document.getElementsByClassName("fb-comments");
+    var firstOrDefault = commentElements.item(0);
+    if (FB && FB.XFBML && firstOrDefault && !firstOrDefault.hasChildNodes()) {
+      FB.XFBML.parse();
+    }
+  }
+
   // ### Upgrade math blocks
   // Once the content is faded in, upgrade the math blocks with KaTeX.
   // This can take a while and will trigger multiple repaints,
   // so we don't want to start until after the animation.
   fadeIn$.pipe(
     tap(upgradeMathBlocks),
-    tap(loadDisqus),
-
+    tap(reloadFB),
     // Finally, after some debounce time, send a `pageview` to Google Analytics (if applicable).
     filter(() => !!window.ga),
     debounceTime(GA_DELAY),
