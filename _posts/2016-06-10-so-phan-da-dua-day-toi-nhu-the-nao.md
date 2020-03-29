@@ -2,7 +2,7 @@
 title: Số phận đã đưa đẩy tôi như thế nào
 description: Một món quà nhỏ giành cho một người bạn \"đặc biệt\" 😉
 layout: post
-tag: [uncategory]
+tag: [lifestyle]
 comments: true
 ---
 
