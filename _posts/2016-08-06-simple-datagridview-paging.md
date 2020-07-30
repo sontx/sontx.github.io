@@ -96,7 +96,7 @@ dataGridViewPaging1.DbRequestHandler = new DbRequestHandler
 ## Author
 Developed by sontx/noem, some useful information:
 
- - Blog: [code4bugs.com](https://code4bugs.com)
+ - Blog: [sontx.dev](https://sontx.dev)
  - Email: <a href="mailto:xuanson33bk@gmail.com">xuanson33bk@gmail.com</a>
  - Twitter: [@sontx0](https://twitter.com/sontx0)
 

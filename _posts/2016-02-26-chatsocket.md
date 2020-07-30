@@ -88,7 +88,7 @@ All users data will be saved in **user.json** file.
 ## Author
 Developed by sontx/noem, some useful information:
 
- - Blog: [https://code4bugs.com](https://code4bugs.com)
+ - Blog: [https://sontx.dev](https://sontx.dev)
  - Email: <a href="mailto:xuanson33bk@gmail.com">xuanson33bk@gmail.com</a>
  - Twitter: [@sontx0](https://twitter.com/sontx0)
 
