@@ -193,7 +193,7 @@ interface DocElement {
   className: string
   description: string
   methods: { name: string; description: string; args: [{ name: string; type: string }], returnType: string }[]
-  properties: {name: string; type: string; description: string}[]
+  properties: {name: string; type: string; description: string, defaultValue?: string}[]
   type: 'Class' | 'Interface'
 }
 
