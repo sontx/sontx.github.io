@@ -5,6 +5,7 @@ description: >
   Điểm làm nên thương hiệu của C/C++ chính là con trỏ, một loại biến đặt biệt, nó lưu địa chỉ của những biến khác(đúng hơn là lưu địa chỉ của vùng nhớ). Nên nhớ rằng cái gì cũng có tính hai mặt, con trỏ(pointer) tuy mạnh nhưng cũng rất nguy hiểm nếu không biết cách sử dụng. Đọc đến đây chắc hẳn các bạn sẽ tự hỏi tại sao lại phải lưu địa chỉ của biến khác, tại sao lại gọi con trỏ là thương hiệu của C/C++, phần bên dưới sẽ giải đáp phần nào 2 câu hỏi đó.
 tag: [programming]
 comments: true
+category: programming
 ---
 <span/>
 

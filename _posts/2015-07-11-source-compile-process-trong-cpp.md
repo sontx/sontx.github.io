@@ -5,6 +5,7 @@ description: >
   Trong C++ quá trình biên dịch source code của chúng ta sang file thực thi hoặc thư viện diễn ra khá nhiều bước, trong đó 2 bước chính là compile và linker là 2 bước sẽ kiểm tra các lỗi và thông báo cho ta biết ở cửa sổ output. Việt nắm được quá trình đi từ mã code của chúng ta sang file cuối cùng(file thực thi hoặc file thư viện) khá quan trọng, nó hổ trợ cho quá trình debug, tối ưu code và tăng tốc biên dịch chương trình rất nhiều.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Dưới đây là sơ đồ về quá trình Source compile process trong C++, nó mô tả tổng quan về tất cả các giai đoạn tiền xử lý đến biên dịch và liên kết để cho ra được file thực thi/thư viện cuối cùng:

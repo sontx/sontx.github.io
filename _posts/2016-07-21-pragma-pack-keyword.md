@@ -7,6 +7,7 @@ description: >
   khảo lại để hiểu rỏ hơn ý nghĩa của từ khóa pack trong bài viết này.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Cú pháp:

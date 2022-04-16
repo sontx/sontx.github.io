@@ -10,6 +10,7 @@ description: >
   bài này, nhanh, gọn nhẹ.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Trong bài này mình sử dụng Eclipse nhé, hơi cũ nhưng cũng đủ xài.

@@ -3,6 +3,7 @@ title: Tự viết một spyware cho riêng mình - Keyboard hooking
 layout: post
 tag: [programming,spyware]
 comments: true
+category: [programming,projects]
 ---
 
 Phần 2 này sẽ hướng dẩn các bạn cách sử dụng keyboard hooking để ghi lại các phím mà người dùng đã nhấn. 

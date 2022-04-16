@@ -5,6 +5,7 @@ description: >
   Mô hình MVC là một mô hình thiết kế giúp chúng ta tách ứng dụng thành các thành phần khác nhau, các thành phần có nhiệm vụ riêng biệt và độc lập với nhau. Nhờ việc hoạt động đập lập và tách biệt nhau mà việc nâng cấp và sửa lỗi ứng dụng trở nên đơn giản hơn bao giờ hết.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 MVC chia ứng dụng làm 3 thành phần là Model, View và Controller, cụ thể như sau:

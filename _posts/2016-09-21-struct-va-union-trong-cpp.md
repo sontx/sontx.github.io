@@ -5,6 +5,7 @@ description: >
   Để lưu các dữ liệu có cấu trúc phức tạp như lưu thông tin 1 sinh viên thì ta có thể sử dụng các kiểu dữ liệu cơ bản như int, char...nhưng nếu ta phải lưu 1 danh sách sinh viên thì sẽ thế nào. Giả sử sinh viên cần thông tin về tên, giới tính, tuổi và tổng điểm như thế chúng ta có thể tạo ra 4 mảng tương ứng với 4 thông tin, với index thứ i trong mảng tương ứng với việc lưu thông tin sinh viên thứ i. Cách giải quyết này khá thô sơ và cũng khá phức tạp, giả dụ như thêm 1 số thông tin cho sinh viên như tên lớp, địa chỉ...Để giải quyết những bài toán yêu cầu lưu dữ liệu phức tạp như thế này C/C++ đã đưa ra khái niệm struct, 1 kiểu dữ liệu có cấu trúc do người dùng tự định nghĩa. Chúng ta sẽ tìm hiểu chi tiết về struct và anh em họ của nó là union ngay sau đây.
 tag: [programming]
 comments: true
+category: programming
 ---
 <span/>
 

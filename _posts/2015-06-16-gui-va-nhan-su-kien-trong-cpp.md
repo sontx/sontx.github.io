@@ -1,10 +1,16 @@
 ---
 title: Gửi và nhận sự kiện trong C++
 layout: post
-description: >
-  Nếu các bạn đã từng sử dụng java/c#  thì chắc hẳng các bạn cũng ít nhiều biết đến khái niệm sự kiện(event). Event có rất nhiều ứng dụng trong xử lý giao diện, xử lý các input của người dùng; ngoài ra nó còn được dùng để gửi thông điệp từ các class với nhau, ở đây ta chủ yếu nguyên cứu về trường hợp này. Dưới đây là 1 trong những cách tạo và sử dụng sự kiện trong c++, cụ thể như thế nào thì đọc tiếp sẽ rỏ.
-tag: [programming]
+description: Nếu các bạn đã từng sử dụng java/c#  thì chắc hẳng các bạn cũng ít nhiều
+  biết đến khái niệm sự kiện(event). Event có rất nhiều ứng dụng trong xử lý giao
+  diện, xử lý các input của người dùng; ngoài ra nó còn được dùng để gửi thông điệp
+  từ các class với nhau, ở đây ta chủ yếu nguyên cứu về trường hợp này. Dưới đây là
+  1 trong những cách tạo và sử dụng sự kiện trong c++, cụ thể như thế nào thì đọc
+  tiếp sẽ rỏ.
+tag:
+- programming
 comments: true
+category: programming
 ---
 
 Ta có bài toán như sau: thực hiện 1 công việc(ví dụ như copy file) và cập nhật tiến độ thực hiện lên màng hình console.

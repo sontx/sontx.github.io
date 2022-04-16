@@ -6,6 +6,7 @@ description: Notepad tự động mở, tiếng gỏ phát ra từ bàn phím d�
   cứ thế xuất hiện trên màng hình laptop.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Chiều rảnh rổi ngồi code vu vơ vài dòng thế là ra được cái chương trình tán gái phong cách developer 😊

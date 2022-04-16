@@ -4,6 +4,7 @@ layout: post
 description: >
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Như các bạn đã biết thì việc cấp phát bộ nhớ động sẽ tốn một khoản thời gian và cũng có thể sẽ xảy ra trường hợp việc cấp phát thất bại vì không đủ bộ nhớ chẳng hạn. Để giải quyết vấn đề này ta có thể sử dụng cách cấp phát một vùng lớn bộ nhớ ngay từ ban đầu, sau đó ta chỉ việc trỏ đúng vị trí và ép kiểu nó sang các kiểu tương ứng là được. Ví dụ thế này: bạn cần mua một số mảnh đất để trồng trọt, việc mua đất sẽ tùy vào mùa màng và thời tiết mà bạn sẽ quyết định mua thêm để trồng các loại cây khác nhau hoặc bán bớt đất. Việc mua và bán đất dĩ nhiên sẽ làm bạn tốn một khoản thời gian để làm giấy tờ các kiểu, có khi đất trống không sẵn có để bạn mua nữa. Để giải quyết vấn đề này, bạn quyết định mua luôn một vùng đất lớn, khi bạn muốn trồng một loại cây A nào đó, bạn chỉ việc xác định vị trí trống còn lại trên vùng đất đã mua kèm theo tổng kích thước cần thiết để trồng loại cây A, từ đó bạn đánh dấu khu đất đó là để trồng cây A. Cứ như vậy bạn có thể xác định các khu đất để trồng các loại cây khác dựa trên vùng đất lớn đã mua.

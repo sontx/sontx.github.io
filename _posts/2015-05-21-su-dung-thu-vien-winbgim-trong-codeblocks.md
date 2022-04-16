@@ -1,10 +1,14 @@
 ---
 title: Cách sử dụng thư viện đồ họa winbgim trong CodeBlocks
 layout: post
-description: >
-  Bài viết dưới đây sẽ hướng dẩn các bạn cách sử dụng thư viện đồ họa dos winbgim trong codeblocks. Chú ý rằng thư viện đồ họa này hiện tại mới chạy ngon trên windows 32bit, đối với windows 64bit thì hên xui, có tin đồn là không hổ trợ windows 64bit
-tag: [programming]
+description: Bài viết dưới đây sẽ hướng dẩn các bạn cách sử dụng thư viện đồ họa dos
+  winbgim trong codeblocks. Chú ý rằng thư viện đồ họa này hiện tại mới chạy ngon
+  trên windows 32bit, đối với windows 64bit thì hên xui, có tin đồn là không hổ trợ
+  windows 64bit
+tag:
+- programming
 comments: true
+category: programming
 ---
 
 Đầu tiên các bạn tải file cần thiết về và giải nén ra, tải tại [đây](http://1drv.ms/1c6e98t)

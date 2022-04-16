@@ -4,6 +4,7 @@ layout: post
 description: >
 tag: [programming]
 comments: true
+category: programming
 ---
 Để mở đầu cho bài viết này mình sẽ lấy ví dụ về IDM thần thánh, trình download được crack nhiều nhất thế giới 😂
 

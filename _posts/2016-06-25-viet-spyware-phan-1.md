@@ -8,6 +8,7 @@ description: >
   lại ở mức "chạy được" và chỉ lòe được các bạn nữ không hiểu biết về công nghệ thôi. Một lần nữa mình xin nhắc lại, mục đích chính là NGUYÊN CỨU để hiểu biết thêm về spyware vì thế bạn nào có ý định đen tối thì kiềm chế nhé.
 tag: [programming,spyware]
 comments: true
+category: [programming,projects]
 ---
 
 Một kỹ thuật khá hay trong Windows đó chính là hooking, chính Unikey mà ta thường dùng hằng ngày hay các chương trình keyloger cũng sử dụng kỹ thuật này. Vậy hook là gì? làm sao để sử dụng nó? câu trả lời sẽ có ngay tại [đây](https://google.com) 😂. Loạt bài này mình sẽ hướng dẩn các bạn viết một con spy(not just keylog), thật ra mình cũng chỉ mới nguyên cứu về chủ đề ngày trong đồ án môn học kỳ vừa rồi nên mọi thứ đều chỉ mới ở mức beginner mà thôi 😂. Toàn bộ source code của con spy(mình đặt tên là badspy) này đều có ở link cuối bài viết này, nếu bạn muốn có thể đọc tham khảo. Nội dung hôm nay chúng ta sẽ tìm hiểu về keylog(phần lý thuyết), một trong những chức năng quan trọng của spy(đây thực ra chỉ là nội dung mình copy nguyên si từ bài báo cáo ra thôi 😂).

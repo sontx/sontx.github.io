@@ -2,9 +2,10 @@
 title: Quản lý và giám sát các thiết bị trong gia đình từ xa(IoT) - Phần 2
 layout: post
 description: >
-  Nối tiếp [phần 1](/2016/12/28/quan-ly-va-giam-sat-cac-thiet-bi-tu-xa-iot-phan-1), ở phần 2 này chúng ta sẽ xây dựng web service, nơi nhận và xử lý các yêu cầu cũng như lưu trữ dữ liệu từ các thiết bị gửi tới.
+  Nối tiếp [phần 1](/2016/01/07/quan-ly-va-giam-sat-cac-thiet-bi-tu-xa-iot-phan-1), ở phần 2 này chúng ta sẽ xây dựng web service, nơi nhận và xử lý các yêu cầu cũng như lưu trữ dữ liệu từ các thiết bị gửi tới.
 tag: [programming,iot]
 comments: true
+category: programming
 ---
 <span/>
 

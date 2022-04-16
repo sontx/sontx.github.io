@@ -10,6 +10,7 @@ description: >
   cho việc này, và hôm nay mình sẽ giới thiệu về 1 trong số chúng đó là [ClosedXML](https://github.com/ClosedXML/ClosedXML).
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Để biết CloseXML là gì và làm được gì với nó thì mình sẽ dịch nguyên văn trên trang chủ của ClosedXML. Trình độ tiếng anh hạn hẹp nên dịch đôi khi sai sót mong các bạn thông cảm 😂

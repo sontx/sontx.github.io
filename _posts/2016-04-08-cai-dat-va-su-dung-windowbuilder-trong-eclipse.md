@@ -5,6 +5,7 @@ description: >
   WindowBuilder là 1 plugs-in của Eclipse thần thánh dùng để thiết kế giao diện AWT hoặc Swing bằng cách kéo thả vì thế nên giúp lập trình viên tiết kiệm khá nhiều thời gian viết code. Theo mặt định thì Eclipse không có cài sẵn WindowBuilder vì thế nên chúng ta sẽ cài bằng tay và đây cũng chính là chủ đề của bài viết này.
 tag: [programming]
 comments: true
+category: programming
 ---
 <span/>
 

@@ -5,6 +5,7 @@ description: >
   Làm thế nào để thực thi một hàm non-static của class trong 1 thread? Nếu bạn muốn tìm hiểu *thread* là gì thì có thể đọc thêm ở [đây](/2015/05/15/su-dung-thread-trong-cpp/).
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Như các bạn đã biết, hàm CreateThread cần biết địa chỉ của hàm mà nó sẽ thực thi khi thread chạy(The starting address for a thread) và dĩ nhiên hàm này phải là hàm tỉnh(static function), bạn phải khai báo static nếu là class member hoặc khai báo bên ngoài class như C style.

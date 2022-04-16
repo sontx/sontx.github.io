@@ -1,10 +1,13 @@
 ---
 title: Sử dụng thread trong C++
 layout: post
-description: >
-  Bài viết này sẽ hướng dẩn các bạn cách sử dụng thread trong C++ trong Windows. Một bài nâng cao hơn về làm việc với thread trong Win32 [Class C++ và CreateThread Win32 API](/2016/06/13/class-cpp-va-create-thread-win32-api/).
-tag: [programming]
+description: Bài viết này sẽ hướng dẩn các bạn cách sử dụng thread trong C++ trong
+  Windows. Một bài nâng cao hơn về làm việc với thread trong Win32 [Class C++ và CreateThread
+  Win32 API](/2016/06/13/class-cpp-va-create-thread-win32-api/).
+tag:
+- programming
 comments: true
+category: programming
 ---
 
 Trước đây khi mới học về lập trình chắc hẳn chúng ta đều được biết rằng các câu lệnh trong chương trình của mình sẽ được thực hiện một cách tuần tự từ trên xuống từng công việc 1, như việc nấu cơm, đầu tiên là đổ gạo vào nồi, tiếp theo là vo gạo, tiếp nữa là đặt nồi lên bếp, và cuối cùng là ngồi đợi cơm chín. Nhưng thực tế thì lúc ngồi đợi cơm chính chúng ta có thể giành thời gian đợi đó để ôm điện thoại nhắn tin cho gấu phải không nào, chứ không ai rảnh mà ngồi nhìn chằm chằm vào nồi cơm đợi cho nó chín cả. Trong lập trình cũng thế, trong lúc đợi công việc 1 hoàn tất thì ta có thể thực hiện công việc 2 để tiết kiệm được thời gian, ví dụ như ta có hàm thứ 1 làm nhiệm vụ tính số fibonacci cực lớn,  hàm thứ 2 làm nhiệm vụ tính số giai thừa cực lớn, điều ta cần ở đây là tính tổng của 2 số này, ta có 2 cách:

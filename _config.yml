@@ -19,7 +19,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  en,vi
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 I'm a beginner
@@ -39,7 +39,7 @@ tagline:               >
   Life is simple, I make choices and I don’t look back.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [programming,c#,csharp,java,javascript,js,typescript,ts,reactjs,angular,spring,database]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -53,7 +53,7 @@ author:
 twitter:               sontx0
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Copyright © 2020. All rights reserved.
+copyright:             Copyright © 2022. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -146,7 +146,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      true
+  cookies_banner:      false
 
 
 # Collections
@@ -221,7 +221,7 @@ plugins:
 
 # Used for Facebook open graph
 facebook:
-   app_id:              290734131670159
+   app_id:              226311351902877
    publisher:           100004072350891
    admins:              100004072350891
 

@@ -5,6 +5,7 @@ description: >
   Hôm nay mình sẽ hướng dẩn cách sử dụng [Visual Leak Detector(VLD)](https://kinddragon.github.io/vld/) để phát hiện memory leak trong chương trình Visual C++. Hiểu một cách đơn giản, memory leak là bug và nó không làm chương trình bị crash lúc runtime nhưng nó lại ảnh hướng tới tài nguyên hệ thống, xảy ra khi bộ nhớ ở heap được cấp phát nhưng quên giải phóng. Phát hiện memory leak là công việc hết sức khó khăng nếu ta không nắm rỏ về con trỏ và cấp phát động trong C++, nhưng may thay công cụ vld đã được xây dựng để hổ trợ cho việc xác định memory leak trong Visual C++ nhờ đó việc phát hiện leak trở nên đơn giản và trực quan hơn.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Phần giới thiệu đã xong, bây giờ chúng ta bắt tay vào chủ đề chính. Đầu tiền các bạn tải vld tại trang chủ hoặc tải tại [đây](http://1drv.ms/1EiU8ZW) sau khi tải về các bạn có folder như sau:

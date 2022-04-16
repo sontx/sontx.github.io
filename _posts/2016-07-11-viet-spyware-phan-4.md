@@ -5,6 +5,7 @@ description: >
   
 tag: [programming,spyware]
 comments: true
+category: [programming,projects]
 ---
 
 Phần 3 mình đã giới thiệu qua về cách sử dụng các hàm API của Windows để chụp ảnh màng hình, 

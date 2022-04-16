@@ -5,6 +5,7 @@ description: >
   Trong lúc làm đồ án có động đến việc ghi log để phục vụ debug nên phải viết ra cái tiện ích nho nhỏ này, thấy nó cũng hay nên chia sẻ cho các bạn đọc chơi. Việc ghi log trong C++ thì dự là có nhiều thư viện hổ trợ rồi, cơ mà xài “cây nhà lá vườn” vẩn thích hơn. Log chỉ ghi ra khi ở mode debug và tự động “biến mất” ở mode release vì thế sẽ tối ưu khá nhiều cho performance. Trong tiện ích này mình sử dụng các macro để ghi log, với mode relase thì nó sẽ bị remove hoàn toàn(bước tiền biên dịch) trước khi code chính thức đc biên dịch.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Phiên bản hiện tại hổ trợ ghi log ra màng hình console, file và ngay trên IDE(just win32). Tùy vào từng mục đích sử dụng mà có thể thay đổi đầu ra log cho phù hợp.

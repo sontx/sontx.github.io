@@ -3,6 +3,7 @@ title: Tự viết một spyware cho riêng mình - Capture screen
 layout: post
 tag: [programming,spyware]
 comments: true
+category: [programming,projects]
 ---
 
 [Phần 2](/2016/06/27/viet-spyware-phan-2) chúng ta đã xây dựng xong keylog, phần tiếp theo chúng ta sẽ cùng tìm hiểu cách chụp ảnh màng hình máy tính, 

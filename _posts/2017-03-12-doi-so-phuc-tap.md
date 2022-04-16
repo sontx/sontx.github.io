@@ -4,6 +4,7 @@ layout: post
 description: Khởi chạy một chương trình khác kèm theo các tham số phức tạp.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Bài toán đơn giản như sau: Chương trình của tôi(tạm gọi là A) cần thực thi 1 chương trình khác(gọi là B) và truyền cho nó rất nhiều đối số.

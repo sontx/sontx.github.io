@@ -5,6 +5,7 @@ description: >
   Tiện ích nhỏ gọn này hổ trợ bạn kiểm tra và cài đặt các phiên bản .Net Framework bị thiếu trong hệ thống. Chương trình với kích thước siêu nhỏ gọn và không cần thêm thư viện, việc thực thi thông qua command prompt khá nhanh và đơn giản
 tag: [programming,utility]
 comments: true
+category: [projects,utility]
 ---
 
 ![](https://4.bp.blogspot.com/-mz2LH_4Zu2E/V03CEllsfkI/AAAAAAAAOtY/qEzQrHFq5UUcjp2r4GK15uJdwi6fnFTPgCKgB/s1600/Untitled.png)

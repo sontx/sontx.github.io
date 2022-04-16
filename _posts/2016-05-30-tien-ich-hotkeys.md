@@ -2,8 +2,9 @@
 title: Tiện ích hotkeys
 layout: post
 description: >
-tag: [programming,utility]
+tag: [programming,utility,projects]
 comments: true
+category: [utility,projects]
 ---
 Chương trình cung cấp các hotkey(tổ hợp phím) thông dụng như:
 

@@ -5,6 +5,7 @@ description: >
   Nối tiếp [phần 3](/2016/01/11/quan-ly-va-giam-sat-cac-thiet-bi-tu-xa-iot-phan-3), phần 4 này sẽ là phần cuối cùng cũng là phần thú vị nhất. Ở phần này mình sẽ hướng dẩn cách xây dựng một virtual device, cách cài đặt server và deploy webservice của chúng ta, cách truy cập từ internet vô webservice và cuối cùng là video demo sản phẩm. Cùng bắt tay vào làm thôi nào!
 tag: [programming,iot]
 comments: true
+category: programming
 ---
 <span/>
 

@@ -1,10 +1,19 @@
 ---
 title: Xây dựng các lớp stream đơn giản để thao tác với file trong c++
 layout: post
-description: >
-  Thao tác với file là 1 trong những công việc thường gặp trong lập trình, bất kể ngôn ngử nào, từ các assembly cho đến c/c++ và c#, java...bất kể lập trình ứng dụng hay lập trình game đều ít nhiều động đến việc xử lý file(như lưu các thiết đặt, dữ liệu người dùng, lưu điểm...). Để việc thao tác với file trở nên đơn giản, người ta đã xây dựng các lớp file [stream](http://stackoverflow.com/questions/1216380/what-is-a-stream) cung cấp các phương thức đọc ghi, kiểm soát lỗi...Ngoài ra còn có các lớp trung gian làm nhiệm vụ như những lớp tiện ích, nó cung cấp các phương thức thao tác với từng loại dữ liệu cụ thể của file. Để hiểu rỏ hơn ta sẽ đi xây dựng lại các lớp stream này trong c++.
-tag: [programming]
+description: Thao tác với file là 1 trong những công việc thường gặp trong lập trình,
+  bất kể ngôn ngử nào, từ các assembly cho đến c/c++ và c#, java...bất kể lập trình
+  ứng dụng hay lập trình game đều ít nhiều động đến việc xử lý file(như lưu các thiết
+  đặt, dữ liệu người dùng, lưu điểm...). Để việc thao tác với file trở nên đơn giản,
+  người ta đã xây dựng các lớp file [stream](http://stackoverflow.com/questions/1216380/what-is-a-stream)
+  cung cấp các phương thức đọc ghi, kiểm soát lỗi...Ngoài ra còn có các lớp trung
+  gian làm nhiệm vụ như những lớp tiện ích, nó cung cấp các phương thức thao tác với
+  từng loại dữ liệu cụ thể của file. Để hiểu rỏ hơn ta sẽ đi xây dựng lại các lớp
+  stream này trong c++.
+tag:
+- programming
 comments: true
+category: programming
 ---
 
 Bước đầu tiên ta xây dựng 1 lớp abstract Stream để cung cấp 1 giao diện tổng quan về stream như sau:

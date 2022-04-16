@@ -5,6 +5,7 @@ description: >
   Như đã biết thì hàm `fork()` sẽ tạo mới một tiến trình con bởi việc “sao chép” lại tiến trình cha. Nghĩa là nó sẽ thực thi lại chính chương trình cha đã tạo ra nó, kiểu như cha nào con nấy. Nhưng thực tế không phải lúc nào chúng ta cũng muốn “cha nào con nấy”, đôi lúc thì con sinh ra phải giống “ông hàng xóm” chứ :)). Bài viết này mình sẽ hướng dẩn cách tạo mới tiến trình con rồi thực thi mới một chương trình khác thay vì thực thi lại chương trình cha đã tạo ra nó.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Để thực hiện được điều này chúng ta sẽ sử dụng kết hợp giữa `fork()` và một hàm mới đó là `exec(…)`.

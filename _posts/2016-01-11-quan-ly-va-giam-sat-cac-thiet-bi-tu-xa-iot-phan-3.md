@@ -5,6 +5,7 @@ description: >
   Trong phần 3 này chúng ta sẽ xây dựng app giám sát và điều khiển thiết bị trên android, các bạn có thể đọc lại [phần 2](/2016/01/08/quan-ly-va-giam-sat-cac-thiet-bi-tu-xa-iot-phan-2) tại đây về xây dựng web service.
 tag: [programming,iot]
 comments: true
+category: programming
 ---
 <span/>
 

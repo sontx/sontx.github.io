@@ -5,6 +5,7 @@ description: >
   Chắc hẳng các bạn đã biết tới enum, const hay đơn giản là define có thể sử dụng để định nghĩa cho những con số khô khan bằng các tên dể nhớ như: SUMMER = 1, SPRING = 2, WINTER = 3, AUTUMN = 4. Và khi sử dụng thì thay vì phải nhớ 1, 2, 3, 4 thì ta chỉ cần nhớ SUMMER, SPRING, WINTER hay AUTUMN nhờ đó mà ta không bị lẩn lộn hoặc quên các giá trị đó.
 tag: [programming]
 comments: true
+category: programming
 ---
 
 Chắc hẳng các bạn đã biết tới enum, const hay đơn giản là define có thể sử dụng để định nghĩa cho những con số khô khan bằng các tên dể nhớ như: SUMMER = 1, SPRING = 2, WINTER = 3, AUTUMN = 4. Và khi sử dụng thì thay vì phải nhớ 1, 2, 3, 4 thì ta chỉ cần nhớ SUMMER, SPRING, WINTER hay AUTUMN nhờ đó mà ta không bị lẩn lộn hoặc quên các giá trị đó.
