@@ -276,8 +276,8 @@ No more join :))
 > Nếu muốn lấy discriminator column thì cứ define thêm 1 column cùng tên với  discriminator column trong entity như thường, jpa sẽ tự map vào cho.
 
 ### Joined
-Hết mỗi ông 1 table đến nhét chung tất cả vào 1 table, bây giờ chúng ta sẽ có cách mới đó là nữa tách nữa không, nên tôi hay gọi cách này là lẩu thập cẩm :)) Với cách này thì mỗi ông 1 class theo nghĩa đen, nghĩa là kể cả ông base entity cũng được cấp cho 1 table nốt :)) Như thế chúng ta sẽ có tới 4 tables (owner, pet, fish và bird).
-Table của mỗi subclass sẽ nhỏ hơn so với cách 2 (table per class), vì mỗi superclass chỉ chứa id và các columns riêng của nó, mấy ông chung sẽ nằm hết vào table base (pet).
+Hết mỗi ông 1 table đến nhét chung tất cả vào 1 table, bây giờ chúng ta sẽ có cách mới đó là nữa tách nữa không, nên tôi hay gọi cách này là lẩu thập cẩm :)) Với cách này thì mỗi ông 1 table theo nghĩa đen, nghĩa là kể cả ông base entity cũng được cấp cho 1 table nốt :)) Như thế chúng ta sẽ có tới 4 tables (owner, pet, fish và bird).
+Table của mỗi subclass sẽ nhỏ hơn nếu so với cách 2 (table per class), vì mỗi superclass chỉ chứa id và các columns riêng của nó, mấy ông chung sẽ nằm hết vào table base (pet).
 
 Pet
 ```java
