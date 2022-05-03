@@ -1,12 +1,17 @@
 ---
-layout: post
 title: chat-socket
-description: >
-  A simple chat application includes chat client and chat server.
-  Support multiple users, private chat, and personal status.
-  This project is based on TCP socket, multithreading, Java serialization, and JSON.
-category: [projects]
+layout: post
+description: A simple chat application includes chat client and chat server. Support
+  multiple users, private chat, and personal status. This project is based on TCP
+  socket, multithreading, Java serialization, and JSON.
+category:
+- projects
 comments: true
+tags:
+- java
+- socket
+- javafx
+- java-swing
 ---
 
 **chat-socket** is a simple chat application includes chat client and chat server.

@@ -1,12 +1,27 @@
 ---
 title: Tạo mới tiến trình với fork
 layout: post
-description: >
-  Có lẻ các bạn đã quen với Windows, hệ điều hành máy tính phổ biến nhất thế giới. Windows được ưu chuộn vì dể sử dụng, sự hổ trợ mạnh mẻ của các hảng phần mềm, trò chơi.... Và vì vậy hệ điều hành này nắm vị trí độc tôn trên nền tảng máy tính cá nhân. Một đối thủ truyền kiếp của Windows là Linux đang ngày càng một phát triển mạnh mẽ, không chỉ hướng tới việc cung cấp nền tảng hệ điều hành cho server mà còn hướng tới người dùng cá nhân. Như các bạn đã biết, Linux là tên gọi của một hệ điều hành máy tính và cũng là tên hạt nhân của hệ điều hành. Nó có lẽ là một ví dụ nổi tiếng nhất của phần mềm tự do và của việc phát triển mã nguồn mở[1]. Trái ngược hoàn toàn với việc độc tôn của Windows, Linux cho phép các nhà phát triển từ do sử dụng mã nguồn, tự do phân phối... góp phần mở ra kỷ nguyên mà nguồn mở. Giới thiệu thế đủ rồi, bữa nay chúng ta sẽ nguyên cứu song song cả Windows và Linux cho nó máu. Để mở đầu cho loạt bài viết về Linux, mình sẽ hướng dẩn cách tạo tiến trình con trong Linux.
-tag: [programming]
+description: Có lẻ các bạn đã quen với Windows, hệ điều hành máy tính phổ biến nhất
+  thế giới. Windows được ưu chuộn vì dể sử dụng, sự hổ trợ mạnh mẻ của các hảng phần
+  mềm, trò chơi.... Và vì vậy hệ điều hành này nắm vị trí độc tôn trên nền tảng máy
+  tính cá nhân. Một đối thủ truyền kiếp của Windows là Linux đang ngày càng một phát
+  triển mạnh mẽ, không chỉ hướng tới việc cung cấp nền tảng hệ điều hành cho server
+  mà còn hướng tới người dùng cá nhân. Như các bạn đã biết, Linux là tên gọi của một
+  hệ điều hành máy tính và cũng là tên hạt nhân của hệ điều hành. Nó có lẽ là một
+  ví dụ nổi tiếng nhất của phần mềm tự do và của việc phát triển mã nguồn mở[1]. Trái
+  ngược hoàn toàn với việc độc tôn của Windows, Linux cho phép các nhà phát triển
+  từ do sử dụng mã nguồn, tự do phân phối... góp phần mở ra kỷ nguyên mà nguồn mở.
+  Giới thiệu thế đủ rồi, bữa nay chúng ta sẽ nguyên cứu song song cả Windows và Linux
+  cho nó máu. Để mở đầu cho loạt bài viết về Linux, mình sẽ hướng dẩn cách tạo tiến
+  trình con trong Linux.
+tags:
+- c++
+- process
+- linux
 comments: true
 category: programming
 ---
+
 <span/>
 
 Tiến trình(process) trong Linux

@@ -1,14 +1,24 @@
 ---
-title: Tự viết một spyware cho riêng mình - Tổng quan về badspy project và lý thuyết keyboard hooking
+title: Tự viết một spyware cho riêng mình - Tổng quan về badspy project và lý thuyết
+  keyboard hooking
 layout: post
-description: >
-  Spyware là loại phần mềm gián điệp chuyên âm thầm thu thập thông tin victim và gửi về máy chủ của hacker.
-  Loạt bài viết này mình sẽ hưởng dẩn cách viết một con spyware từ a-z sử dụng các hàm win32 api. Mục đích chính
-  là nguyên cứu và học tập là chính, bạn nào có ý tưởng đem nó đi phát tán thì nên nghỉ lại nhé, con spyware chỉ dừng
-  lại ở mức "chạy được" và chỉ lòe được các bạn nữ không hiểu biết về công nghệ thôi. Một lần nữa mình xin nhắc lại, mục đích chính là NGUYÊN CỨU để hiểu biết thêm về spyware vì thế bạn nào có ý định đen tối thì kiềm chế nhé.
-tag: [programming,spyware]
+description: Spyware là loại phần mềm gián điệp chuyên âm thầm thu thập thông tin
+  victim và gửi về máy chủ của hacker. Loạt bài viết này mình sẽ hưởng dẩn cách viết
+  một con spyware từ a-z sử dụng các hàm win32 api. Mục đích chính là nguyên cứu và
+  học tập là chính, bạn nào có ý tưởng đem nó đi phát tán thì nên nghỉ lại nhé, con
+  spyware chỉ dừng lại ở mức "chạy được" và chỉ lòe được các bạn nữ không hiểu biết
+  về công nghệ thôi. Một lần nữa mình xin nhắc lại, mục đích chính là NGUYÊN CỨU để
+  hiểu biết thêm về spyware vì thế bạn nào có ý định đen tối thì kiềm chế nhé.
+tags:
+- spyware
+- c++
+- java
+- keylogger
+- winapi
 comments: true
-category: [programming,projects]
+category:
+- programming
+- projects
 ---
 
 Một kỹ thuật khá hay trong Windows đó chính là hooking, chính Unikey mà ta thường dùng hằng ngày hay các chương trình keyloger cũng sử dụng kỹ thuật này. Vậy hook là gì? làm sao để sử dụng nó? câu trả lời sẽ có ngay tại [đây](https://google.com) 😂. Loạt bài này mình sẽ hướng dẩn các bạn viết một con spy(not just keylog), thật ra mình cũng chỉ mới nguyên cứu về chủ đề ngày trong đồ án môn học kỳ vừa rồi nên mọi thứ đều chỉ mới ở mức beginner mà thôi 😂. Toàn bộ source code của con spy(mình đặt tên là badspy) này đều có ở link cuối bài viết này, nếu bạn muốn có thể đọc tham khảo. Nội dung hôm nay chúng ta sẽ tìm hiểu về keylog(phần lý thuyết), một trong những chức năng quan trọng của spy(đây thực ra chỉ là nội dung mình copy nguyên si từ bài báo cáo ra thôi 😂).

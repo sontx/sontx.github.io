@@ -1,11 +1,17 @@
 ---
 title: Tiện ích hotkeys
 layout: post
-description: >
-tag: [programming,utility,projects]
+tags:
+- utility
+- c#
+- winform
+- winapi
+- hook
 comments: true
-category: [utility,projects]
+category:
+- projects
 ---
+
 Chương trình cung cấp các hotkey(tổ hợp phím) thông dụng như:
 
 * Media: next, back, pause, mute…

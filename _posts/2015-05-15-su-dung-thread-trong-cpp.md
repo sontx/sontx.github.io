@@ -4,8 +4,9 @@ layout: post
 description: Bài viết này sẽ hướng dẩn các bạn cách sử dụng thread trong C++ trong
   Windows. Một bài nâng cao hơn về làm việc với thread trong Win32 [Class C++ và CreateThread
   Win32 API](/2016/06/13/class-cpp-va-create-thread-win32-api/).
-tag:
-- programming
+tags:
+- c++
+- multithreading
 comments: true
 category: programming
 ---

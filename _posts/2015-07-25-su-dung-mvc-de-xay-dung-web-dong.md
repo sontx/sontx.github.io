@@ -1,9 +1,15 @@
 ---
 title: Tổng quan về sử dụng mô hình MVC để xây dựng web động
 layout: post
-description: >
-  Mô hình MVC là một mô hình thiết kế giúp chúng ta tách ứng dụng thành các thành phần khác nhau, các thành phần có nhiệm vụ riêng biệt và độc lập với nhau. Nhờ việc hoạt động đập lập và tách biệt nhau mà việc nâng cấp và sửa lỗi ứng dụng trở nên đơn giản hơn bao giờ hết.
-tag: [programming]
+description: Mô hình MVC là một mô hình thiết kế giúp chúng ta tách ứng dụng thành
+  các thành phần khác nhau, các thành phần có nhiệm vụ riêng biệt và độc lập với nhau.
+  Nhờ việc hoạt động đập lập và tách biệt nhau mà việc nâng cấp và sửa lỗi ứng dụng
+  trở nên đơn giản hơn bao giờ hết.
+tags:
+- java
+- jsp
+- serverlet
+- mvc
 comments: true
 category: programming
 ---

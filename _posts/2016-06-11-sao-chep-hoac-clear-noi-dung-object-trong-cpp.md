@@ -1,12 +1,12 @@
 ---
 title: Cách khác để sao chép hoặc clear nội dung thực thể trong C++
 layout: post
-description: >
-
-tag: [programming]
+tags:
+- c++
 comments: true
 category: programming
 ---
+
 Như đã biết thì việc sao chép nội dung của các thực thể của class trong C++ được thực hiện bằng copy contructor hoặc toán tử gán, đối với một số lớp đơn giản thì ta có thể không cần thực thi lại tụi này làm gì. Đối với các lớp có chứa con trỏ thì hầu hết trường hợp ta phải định nghĩa lại để có thể copy vùng nhớ mà con trỏ trỏ đến. Trong bài viết này mình không đi cụ thể vào cách xây dựng copy constructor hay nạp chồng toán tử gán, mình sẽ hướng dẩn các bạn một cách khác để copy nội dung của thực thể này sang thực thể khác mà không cần sử dụng đến copy constructor hay toán tử gán cũng như cách clear nội dung các trường của một thực thể một cách nhanh chóng. Dĩ nhiên cách này vẩn không thể thay thế hoàn toàn được phương pháp nạp chồng toán tử gán hay thực thi lại copy constructor, nó chỉ đơn giản là cung cấp một giải pháp khác cho bạn. Chú ý rằng các phương pháp này sẽ không thể sử dụng nếu trong class có định nghĩa các virtual method hoặc chứa các trường là con trỏ.
 
 Sao chép nội dung của thực thể này sang thực thể khác

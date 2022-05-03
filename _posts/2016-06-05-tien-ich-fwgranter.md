@@ -1,11 +1,15 @@
 ---
 title: Tiện ích FWGranter
 layout: post
-description: >
-  Đây là công cụ tiện ích từ dòng lệnh giúp bạn thêm ứng dụng của mình vào danh sách ngoại lệ của tường lửa theo cách đơn giản nhất có thể.
-tag: [programming,utility]
+description: Đây là công cụ tiện ích từ dòng lệnh giúp bạn thêm ứng dụng của mình
+  vào danh sách ngoại lệ của tường lửa theo cách đơn giản nhất có thể.
+tags:
+- utility
+- c#
+- firewall
 comments: true
-category: [project,utility]
+category:
+- project
 ---
 
 Các chức năng chính như sau:

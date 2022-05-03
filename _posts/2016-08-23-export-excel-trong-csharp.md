@@ -1,14 +1,15 @@
 ---
 title: Export Excel Trong C#
 layout: post
-description: >
-  Khỏi phải giới thiệu về Microsoft Excel(gọi ngắn gọn là Excel), với
+description: "Khỏi phải giới thiệu về Microsoft Excel(gọi ngắn gọn là Excel), với
   nó bạn có thể làm đủ thứ việc.  Để tạo và làm việc với file excel thì bạn chỉ cần
   cài chương trình Excel vào máy.  Nhưng đôi khi khách hàng lại yêu cầu tính năng
-  export kết quả hoặc dữ liệu ra file excel từ chương trình của mình thì \"anh muốn
-  em sống sao\" 😂.  Thật ra thì nhiều thư viện đã được xây dựng để phục vụ
-  cho việc này, và hôm nay mình sẽ giới thiệu về 1 trong số chúng đó là [ClosedXML](https://github.com/ClosedXML/ClosedXML).
-tag: [programming]
+  export kết quả hoặc dữ liệu ra file excel từ chương trình của mình thì \\\"anh muốn
+  em sống sao\\\" \U0001F602.  Thật ra thì nhiều thư viện đã được xây dựng để phục
+  vụ cho việc này, và hôm nay mình sẽ giới thiệu về 1 trong số chúng đó là [ClosedXML](https://github.com/ClosedXML/ClosedXML)."
+tags:
+- c#
+- excel
 comments: true
 category: programming
 ---

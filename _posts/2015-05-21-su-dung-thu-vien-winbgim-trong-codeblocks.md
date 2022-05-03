@@ -5,8 +5,8 @@ description: Bài viết dưới đây sẽ hướng dẩn các bạn cách sử
   winbgim trong codeblocks. Chú ý rằng thư viện đồ họa này hiện tại mới chạy ngon
   trên windows 32bit, đối với windows 64bit thì hên xui, có tin đồn là không hổ trợ
   windows 64bit
-tag:
-- programming
+tags:
+- c++
 comments: true
 category: programming
 ---

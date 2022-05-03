@@ -7,8 +7,9 @@ description: Nếu các bạn đã từng sử dụng java/c#  thì chắc hẳn
   từ các class với nhau, ở đây ta chủ yếu nguyên cứu về trường hợp này. Dưới đây là
   1 trong những cách tạo và sử dụng sự kiện trong c++, cụ thể như thế nào thì đọc
   tiếp sẽ rỏ.
-tag:
-- programming
+tags:
+- c++
+- eventbus
 comments: true
 category: programming
 ---

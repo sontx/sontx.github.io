@@ -8,6 +8,12 @@ description: Chrome extension thì không còn xa lạ với người dùng chro
   bạn có bao giờ tự hỏi chrome extension làm việc như thế nào, làm sao để viết ra
   được chúng. Nếu bạn đã tò mò và muốn tìm hiểu thì tôi sẽ đưa đèn chỉ lối cho bạn
   :))
+tags:
+- programming
+- typescript
+- webpack
+- chrome-extension
+- manifestv3
 ---
 
 Ở các phiên bản trước của chrome, manifest v2 được sử dụng khá rộng rãi cho đến khi ông v3 tòi ra và chrome bắt buộc phải migrate lên v3 nếu không thì sẽ xịt :)) thế nên hôm nay tôi sẽ hướng dẩn các bạn chơi với con v3 này.

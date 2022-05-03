@@ -1,14 +1,16 @@
 ---
 title: Làm việc với CSDL trong java
 layout: post
-description: >
-  Các lý thuyết về csdl(database) thì các bạn có thể đọc thêm trên google,
-  trong bài này mình sẽ hướng dẩn một cách chi tiết nhất có thể về cách làm việc
-  với csdl trong java.  Như bạn đã biết thì trên đời này có hàng tá hệ quản trị csdl
-  như MySQL, SQLServer, Oracle... nhưng mà chúng ta không cần dùng dao mổ trâu để
-  đi giết gà làm gì 😂.  Vì thế nên mình chọn **SQLite** để hướng dẩn trong
-  bài này, nhanh, gọn nhẹ.
-tag: [programming]
+description: "Các lý thuyết về csdl(database) thì các bạn có thể đọc thêm trên google,
+  trong bài này mình sẽ hướng dẩn một cách chi tiết nhất có thể về cách làm việc với
+  csdl trong java.  Như bạn đã biết thì trên đời này có hàng tá hệ quản trị csdl như
+  MySQL, SQLServer, Oracle... nhưng mà chúng ta không cần dùng dao mổ trâu để đi giết
+  gà làm gì \U0001F602.  Vì thế nên mình chọn **SQLite** để hướng dẩn trong bài này,
+  nhanh, gọn nhẹ."
+tags:
+- java
+- database
+- jdbc
 comments: true
 category: programming
 ---

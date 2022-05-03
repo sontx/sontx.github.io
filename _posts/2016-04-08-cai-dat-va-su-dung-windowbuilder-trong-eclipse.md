@@ -1,12 +1,17 @@
 ---
 title: Cài đặt và sử dụng WindowBuilder trong Eclipse
 layout: post
-description: >
-  WindowBuilder là 1 plugs-in của Eclipse thần thánh dùng để thiết kế giao diện AWT hoặc Swing bằng cách kéo thả vì thế nên giúp lập trình viên tiết kiệm khá nhiều thời gian viết code. Theo mặt định thì Eclipse không có cài sẵn WindowBuilder vì thế nên chúng ta sẽ cài bằng tay và đây cũng chính là chủ đề của bài viết này.
-tag: [programming]
+description: WindowBuilder là 1 plugs-in của Eclipse thần thánh dùng để thiết kế giao
+  diện AWT hoặc Swing bằng cách kéo thả vì thế nên giúp lập trình viên tiết kiệm khá
+  nhiều thời gian viết code. Theo mặt định thì Eclipse không có cài sẵn WindowBuilder
+  vì thế nên chúng ta sẽ cài bằng tay và đây cũng chính là chủ đề của bài viết này.
+tags:
+- java
+- java-swing
 comments: true
 category: programming
 ---
+
 <span/>
 
 Download WindowBuilder
@@ -116,4 +121,3 @@ Look and feel mặt định
 
 Look and feell của Windows
 ![](https://3.bp.blogspot.com/--kDwuXtVK08/VweIJsTsQdI/AAAAAAAAOX0/p5xlWt_2Z_8IuKvJXVdGnhSwPvLuKI3sQ/s320/Capture.PNG)
-

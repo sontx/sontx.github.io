@@ -1,12 +1,19 @@
 ---
 title: Quản lý và giám sát các thiết bị trong gia đình từ xa(IoT) - Phần 4
 layout: post
-description: >
-  Nối tiếp [phần 3](/2016/01/11/quan-ly-va-giam-sat-cac-thiet-bi-tu-xa-iot-phan-3), phần 4 này sẽ là phần cuối cùng cũng là phần thú vị nhất. Ở phần này mình sẽ hướng dẩn cách xây dựng một virtual device, cách cài đặt server và deploy webservice của chúng ta, cách truy cập từ internet vô webservice và cuối cùng là video demo sản phẩm. Cùng bắt tay vào làm thôi nào!
-tag: [programming,iot]
+description: Nối tiếp [phần 3](/2016/01/11/quan-ly-va-giam-sat-cac-thiet-bi-tu-xa-iot-phan-3),
+  phần 4 này sẽ là phần cuối cùng cũng là phần thú vị nhất. Ở phần này mình sẽ hướng
+  dẩn cách xây dựng một virtual device, cách cài đặt server và deploy webservice của
+  chúng ta, cách truy cập từ internet vô webservice và cuối cùng là video demo sản
+  phẩm. Cùng bắt tay vào làm thôi nào!
+tags:
+- iot
+- java
+- tomcat
 comments: true
 category: programming
 ---
+
 <span/>
 
 Xây dựng virtual device

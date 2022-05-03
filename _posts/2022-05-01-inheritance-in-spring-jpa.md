@@ -9,6 +9,10 @@ description: Tính thừa kế là 1 trong những key concepts của java và d
   mấy ông relational db này không có khái niệm về kế thừa :)) Thế nhưng các cao nhân
   vẫn chế ra cách để ông inheriance models map được với ông relational db qua cái
   cầu jpa hibernate.
+tags:
+- java
+- jpa
+- hibernate
 ---
 
 Trong jpa hibernate thì có 4 cách chính để kế thừa domain models, mỗi cách có ưu nhược điểm riêng. Tôi sẽ giới thiệu ngay bên dưới kèm theo bài toán như sau:

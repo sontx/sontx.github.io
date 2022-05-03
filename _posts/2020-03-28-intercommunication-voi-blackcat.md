@@ -7,6 +7,11 @@ comments: true
 description: Giao tiếp giữa các processes thì không phải là chủ đề gì quá mới mẻ,
   có nhiều kỹ thuật hổ trợ việc đó vd như pipe hay kể cả socket... nhiều lắm, tha
   hồ lựa. Blackcat cũng dùng các kỹ thuật này, wrap chúng lại để dể xài hơn thôi :))
+tags:
+- c#
+- socket
+- namedpipe
+- intercommunication
 ---
 
 [Blackcat](https://github.com/sontx/blackcat) là 1 bộ thư viện tiện ích đơn giản gọn nhẹ giành cho .Net, nó bao gồm nhiều thành phần như Configuration, EventBus, IoC, AppCrash... Hôm nay mình sẽ giới thiệu thành phần **Intercomm**, với Intercomm bạn có thể giao tiếp với các processes trong 1 nốt nhạc :))

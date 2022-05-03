@@ -1,8 +1,8 @@
 ---
 title: Một cách khác để cấp phát bộ nhớ động trong C++
 layout: post
-description: >
-tag: [programming]
+tags:
+- c++
 comments: true
 category: programming
 ---

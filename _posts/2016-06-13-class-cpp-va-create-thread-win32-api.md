@@ -1,9 +1,12 @@
 ---
 title: Class C++ và CreateThread Win32 API
 layout: post
-description: >
-  Làm thế nào để thực thi một hàm non-static của class trong 1 thread? Nếu bạn muốn tìm hiểu *thread* là gì thì có thể đọc thêm ở [đây](/2015/05/15/su-dung-thread-trong-cpp/).
-tag: [programming]
+description: Làm thế nào để thực thi một hàm non-static của class trong 1 thread?
+  Nếu bạn muốn tìm hiểu *thread* là gì thì có thể đọc thêm ở [đây](/2015/05/15/su-dung-thread-trong-cpp/).
+tags:
+- c++
+- multithreading
+- winapi
 comments: true
 category: programming
 ---

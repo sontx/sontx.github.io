@@ -1,12 +1,18 @@
 ---
 title: Kết thúc tiến trình
 layout: post
-description: >
-  Qua các bài viết trướt thì bạn đã biết cách tạo mới một tiến trình sử dụng fork rồi. Bây giờ ta sẽ tìm hiểu về các các để kết thúc một tiến trình. Ta có thể kết thúc một cách chủ động hay thụ động hoặc chờ một tiến trình kết thúc. Tùy vào từng trường hợp cụ thể ta có thể lựa chọn giải pháp thích hợp cho chương trình của mình.
-tag: [programming]
+description: Qua các bài viết trướt thì bạn đã biết cách tạo mới một tiến trình sử
+  dụng fork rồi. Bây giờ ta sẽ tìm hiểu về các các để kết thúc một tiến trình. Ta
+  có thể kết thúc một cách chủ động hay thụ động hoặc chờ một tiến trình kết thúc.
+  Tùy vào từng trường hợp cụ thể ta có thể lựa chọn giải pháp thích hợp cho chương
+  trình của mình.
+tags:
+- c++
+- process
 comments: true
 category: programming
 ---
+
 <span/>
 
 Kết thúc chủ động

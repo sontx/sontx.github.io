@@ -10,6 +10,9 @@ description: Mỗi khi cần lưu 1 set các cấu hình thì bạn sẽ gặp p
   :)) (Thực ra thì bản thân .Net cũng hổ trợ việc này rồi nhưng hướng tiếp cận của
   nó hơi khác). Với Configuration của blackcat thì bạn sẽ ko cần phải quan tâm mấy
   thứ vớ va vớ vẩn đó nữa.
+tags:
+- c#
+- configuration
 ---
 
 [Blackcat](https://github.com/sontx/blackcat) là 1 bộ thư viện tiện ích đơn giản gọn nhẹ giành cho .Net, nó bao gồm nhiều thành phần như Configuration, EventBus, IoC, AppCrash... Hôm nay mình sẽ giới thiệu thành phần **Configuration**, với Configuration bạn có thể lưu hoặc load các cấu hình của ứng dụng chỉ với 1 dòng lệnh :)).

@@ -7,6 +7,9 @@ comments: true
 description: IoC thì chắc nhiều bạn biết rồi, nếu không biết thì cứ google là ra :))
   blackcat cung cấp 1 IoC container bên dưới của nó sử dụng [TinyIoC](https://github.com/grumpydev/TinyIoC)
   còn nó chỉ có 1 nhiệm vụ giúp IoC thân thiện hơn với người dùng :))
+tags:
+- c#
+- ioc
 ---
 
 [Blackcat](https://github.com/sontx/blackcat) là 1 bộ thư viện tiện ích đơn giản gọn nhẹ giành cho .Net, nó bao gồm nhiều thành phần như Configuration, EventBus, IoC, AppCrash... Hôm nay mình sẽ giới thiệu thành phần **IoC**, với IoC bạn có thể khởi tạo và sử dụng IoC container bằng cách sử dụng các attributes tương tự như cách mà spring làm :)).

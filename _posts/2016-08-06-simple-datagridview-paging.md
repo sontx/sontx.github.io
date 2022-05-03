@@ -1,11 +1,18 @@
 ---
-layout: post
 title: simple-datagridview-paging
-description: >
-  A simple UserControl that shows the data-table and paging automatically. With this library, you can also edit the data and it will be saved to the database automatically. 
-category: [projects]
+layout: post
+description: A simple UserControl that shows the data-table and paging automatically.
+  With this library, you can also edit the data and it will be saved to the database
+  automatically.
+category:
+- projects
 comments: true
+tags:
+- c#
+- database
+- winform
 ---
+
 **simple-datagridview-paging** is a simple UserControl that shows the data-table and paging automatically.
 With this library, you can also edit the data and it will be saved to the database automatically.
 ![](https://3.bp.blogspot.com/-76IqcXrupWc/Wzzowu0OxNI/AAAAAAAAVRs/J2Xwqp4aN7ce02rEfMB47HmlGxQpwoYOgCLcBGAs/Capture.PNG)

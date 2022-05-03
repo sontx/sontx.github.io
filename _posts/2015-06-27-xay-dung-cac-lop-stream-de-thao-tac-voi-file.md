@@ -10,8 +10,8 @@ description: Thao tác với file là 1 trong những công việc thường g�
   gian làm nhiệm vụ như những lớp tiện ích, nó cung cấp các phương thức thao tác với
   từng loại dữ liệu cụ thể của file. Để hiểu rỏ hơn ta sẽ đi xây dựng lại các lớp
   stream này trong c++.
-tag:
-- programming
+tags:
+- c++
 comments: true
 category: programming
 ---

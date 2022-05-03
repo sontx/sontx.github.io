@@ -3,6 +3,9 @@ title: Trích xuất các thành phần của biểu thức từ trái qua phả
 layout: post
 category: programming
 comments: true
+tags:
+- javascript
+- math
 ---
 
 Gần đây tôi có gặp phải 1 bài toán như sau: *cho/nhập một biểu thức toán học đơn giản (vd: **A1+13-B2*(A1+C5)**), highlight và trigger sự kiện nếu người dùng click vào biến trong biểu thức đã cho*.

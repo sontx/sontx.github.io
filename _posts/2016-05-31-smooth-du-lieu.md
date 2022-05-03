@@ -1,11 +1,13 @@
 ---
 title: Smooth dữ liệu
 layout: post
-description: >
-tag: [programming]
+tags:
+- c++
+- data-processing
 comments: true
 category: programming
 ---
+
 Để mở đầu cho bài viết này mình sẽ lấy ví dụ về IDM thần thánh, trình download được crack nhiều nhất thế giới 😂
 
 Chắc hẳng trong số chúng ta đã không ít người overnight để tải game rồi nhỉ, cả mấy chục G là điều bình thường. Ngồi nhìn tốc độ download lên xuống liên tục mà đau tim. Nhưng bạn có bao giờ để ý tốc độ download hiển thị trên IDM luôn tăng/giảm một cách rất “smooth” không, nó không bao giờ nhảy cái độp một phát từ 1.2MB xuống mấy chục KB/s nhỉ. Giá trị này luôn giảm một cách rất “từ từ” mà tốc độ mạng thì nó không giảm từ từ như thế. Việc hiển thị giá trị kiểu này giúp người dùng có thể dể dàng biết được tốc độ download đang tăng hay đang giảm và nhìn có vẻ dể chịu hơn nhỉ 😂

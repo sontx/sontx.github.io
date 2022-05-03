@@ -1,11 +1,15 @@
 ---
 title: Tự viết một spyware cho riêng mình - Lưu trữ
 layout: post
-description: >
-  
-tag: [programming,spyware]
+tags:
+- spyware
+- c++
+- java
+- winapi
 comments: true
-category: [programming,projects]
+category:
+- programming
+- projects
 ---
 
 Phần 3 mình đã giới thiệu qua về cách sử dụng các hàm API của Windows để chụp ảnh màng hình, 

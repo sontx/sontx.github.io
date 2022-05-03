@@ -1,12 +1,20 @@
 ---
 title: Quản lý và giám sát các thiết bị trong gia đình từ xa(IoT) - Phần 1
 layout: post
-description: >
-  Chào các bạn, vì lý do thi cử và đồ án ngập đầu nên mình không thể viết bài trong thời gian qua. Bây giờ mình đã trở lại với 1 chủ đề hoàn toàn mới(với mình) đó là Internet of Things(IoT), về lý thuyết của IoT thì các bạn có thể tìm hiểu thông qua google.com. Mình cũng chỉ vừa mới nguyên cứu IoT trong thời gian ngắn vì thế bài viết sẽ còn nhiều sai sót do đó các bạn có thể đóng góp ngay bên dưới phần comment.
-tag: [programming,iot]
+description: Chào các bạn, vì lý do thi cử và đồ án ngập đầu nên mình không thể viết
+  bài trong thời gian qua. Bây giờ mình đã trở lại với 1 chủ đề hoàn toàn mới(với
+  mình) đó là Internet of Things(IoT), về lý thuyết của IoT thì các bạn có thể tìm
+  hiểu thông qua google.com. Mình cũng chỉ vừa mới nguyên cứu IoT trong thời gian
+  ngắn vì thế bài viết sẽ còn nhiều sai sót do đó các bạn có thể đóng góp ngay bên
+  dưới phần comment.
+tags:
+- iot
+- java
+- tomcat
 comments: true
 category: programming
 ---
+
 <span/>
 
 Mở bài

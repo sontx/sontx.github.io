@@ -2,9 +2,11 @@
 title: Đối số phức tạp
 layout: post
 description: Khởi chạy một chương trình khác kèm theo các tham số phức tạp.
-tag: [programming]
 comments: true
 category: programming
+tags:
+- c#
+- intercommunication
 ---
 
 Bài toán đơn giản như sau: Chương trình của tôi(tạm gọi là A) cần thực thi 1 chương trình khác(gọi là B) và truyền cho nó rất nhiều đối số.
@@ -93,7 +95,8 @@ executor.Add("key3", new World());
 executor.Add("key4", new And());
 executor.Add("key5", new Love());
 executor.Add("don't care about the above lines");
-executor.Add(0x3393);executor.Execute();
+executor.Add(0x3393);
+executor.Execute();
 ```
 
 Ở chương trình B tôi khởi tạo một ArgumentDeserializer và gọi phương thức Deserialize để tiến hành phân tích dữ liệu mà A đã gửi, hàm này trả về true nếu quá trình phân tích duyển ra thành công. Sau khi phân tích dữ liệu mà A đã gửi, tôi gọi hàm GetArgument để lấy các object tương ứng ra một cách đơn giản đến khó tin. Tôi có thể lấy object mà A truyền qua dựa theo key hoặc dựa theo index.

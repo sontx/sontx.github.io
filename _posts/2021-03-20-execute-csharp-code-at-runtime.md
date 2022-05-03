@@ -5,6 +5,9 @@ comments: true
 category:
 - programming
 description: "Chạy code C# lúc runtime được không nhỉ \U0001F914"
+tags:
+- c#
+- roslyn
 ---
 
 Các bạn chắc cũng biết C# là một ngôn ngữ lập trình biên dịch vì thế muốn chạy được thì phải compile ra binary file (thực ra là IL, tợ tợ như bytecode bên java thôi). Điều này chẳng có gì mới mẻ cả, cho đến một ngày.... trong lúc ngồi nghỉ vu vơ chờ crush rep tin nhắn, đầu tôi chợt nảy ra một câu hỏi "Chạy code C# lúc runtime được không nhỉ?". Và thế là tôi vứt crush sang một bên và lên google ngâm cứu, sau một 1 vài phút hỏi bác google thì 2 keywords chính đã lòi ra **Microsoft.CodeAnalysis.CSharp.Scripting** và **Roslyn**.

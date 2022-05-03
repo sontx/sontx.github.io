@@ -4,6 +4,8 @@ layout: post
 comments: true
 category: programming
 description: Tự động sinh docs từ comment(tsdoc) trong typescript code
+tags:
+- typescript
 ---
 
 Gen docs từ source code của typescript thì chắc chẳn(g) xa lạ gì nữa, chỉ cần bỏ ra vài phút search là bạn có thể tìm thấy cả lùm thư viện/tools gen docs cho ts, vừa tiết kiệm thời gian vừa đỡ đau não. Nhưng đơn giản quá thì dể gây nhàm chán, vì thế hôm nay tôi sẽ hướng dẩn bạn tự viết code để gen docs, đúng tiêu chuẩn cây nhà lá vườn, tự viết tự fix tự chưởi thề :))

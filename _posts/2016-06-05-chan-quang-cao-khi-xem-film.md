@@ -1,9 +1,16 @@
 ---
 title: Chặn quảng cáo khi xem film
 layout: post
-description: >
-  Việc thư giản sau những giờ làm việc mệt nhọc khá quan trọng, có thể nghe nhạc, xem film, đi dạo hay đơn giản là đi caffee tia gái. Mỗi người sẽ có một cách thư giản riêng, mình thì lại thích ôm laptop xem anime :D nhưng mỗi lần vô mấy trang xem film lại nản với quảng cáo. Mấy trang lớn thì đa số hiển thị quản cáo 2 bên còn mấy trang tép tép thì thôi rồi, everywhere, popup đủ thứ, đúng là nỗi kinh hoàng cho dân cày film. Nhưng may mắng thay, các phần mềm/add-on chặng quản cáo ngày càng đa dạng và lợi hại nhưng không phải ai cũng biết đến chúng vì thế hôm nay mình sẽ nói về vấn đề này.
-tag: [uncategory]
+description: Việc thư giản sau những giờ làm việc mệt nhọc khá quan trọng, có thể
+  nghe nhạc, xem film, đi dạo hay đơn giản là đi caffee tia gái. Mỗi người sẽ có một
+  cách thư giản riêng, mình thì lại thích ôm laptop xem anime :D nhưng mỗi lần vô
+  mấy trang xem film lại nản với quảng cáo. Mấy trang lớn thì đa số hiển thị quản
+  cáo 2 bên còn mấy trang tép tép thì thôi rồi, everywhere, popup đủ thứ, đúng là
+  nỗi kinh hoàng cho dân cày film. Nhưng may mắng thay, các phần mềm/add-on chặng
+  quản cáo ngày càng đa dạng và lợi hại nhưng không phải ai cũng biết đến chúng vì
+  thế hôm nay mình sẽ nói về vấn đề này.
+category:
+- uncategory
 comments: true
 ---
 

@@ -1,11 +1,13 @@
 ---
 title: 'Pragma: pack keyword'
 layout: post
-description: >
-  Đây là keyword quy định giá trị Alignment cho các trường trong struct,
+description: Đây là keyword quy định giá trị Alignment cho các trường trong struct,
   union hoặc class.  Mình có một bài viết về struct alignment tại đây bạn có thể tham
   khảo lại để hiểu rỏ hơn ý nghĩa của từ khóa pack trong bài viết này.
-tag: [programming]
+tags:
+- c++
+- prama
+- struct
 comments: true
 category: programming
 ---

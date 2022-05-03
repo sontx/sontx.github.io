@@ -1,12 +1,20 @@
 ---
 title: Chatroom sử dụng TCP Socket
 layout: post
-description: >
-  Như các bạn đã biết thì socket là kỷ thuật được sử dụng khá phổ biến để các chương trình giao tiếp trong mạng. Với socket thì ta có thể làm đủ thứ trò hay ho như truyền nhận file, chat, teamview(phiên bản chế)…Hôm nay mình sẽ hướng dẩn các bạn cách viết một chương trình chatroom đơn giản sử dụng TCP Socket của java và C#.
-tag: [programming]
+description: Như các bạn đã biết thì socket là kỷ thuật được sử dụng khá phổ biến
+  để các chương trình giao tiếp trong mạng. Với socket thì ta có thể làm đủ thứ trò
+  hay ho như truyền nhận file, chat, teamview(phiên bản chế)…Hôm nay mình sẽ hướng
+  dẩn các bạn cách viết một chương trình chatroom đơn giản sử dụng TCP Socket của
+  java và C#.
+tags:
+- c#
+- java
+- socket
+- multithreading
 comments: true
 category: programming
 ---
+
 <span/>
 
 Tìm hiểu về TCP Socket

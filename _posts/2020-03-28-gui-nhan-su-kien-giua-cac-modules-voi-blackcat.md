@@ -8,6 +8,9 @@ description: Nếu bạn từng code android thì chắc cũng biêt đến 1 th
   tiến là [greenrobot eventbus](https://github.com/greenrobot/EventBus), nó dùng để
   gửi và nhận các events từ các modules khác nhau theo mô hình pub/sub. EventBus của
   blackcat thực ra là chôm ý tưởng từ thư viện này mà thôi :))
+tags:
+- c#
+- eventbus
 ---
 
 [Blackcat](https://github.com/sontx/blackcat) là 1 bộ thư viện tiện ích đơn giản gọn nhẹ giành cho .Net, nó bao gồm nhiều thành phần như Configuration, EventBus, IoC, AppCrash... Hôm nay mình sẽ giới thiệu thành phần **EventBus**, với EventBus bạn có thể gửi và nhận sự kiện giữa các mudules một cách đơn giản nhất có thể.

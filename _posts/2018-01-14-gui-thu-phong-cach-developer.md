@@ -4,9 +4,10 @@ layout: post
 description: Notepad tự động mở, tiếng gỏ phát ra từ bàn phím dẫu cho cô ấy không
   hề động tới nó. Trong màng đêm tĩnh mịch chỉ có tiếng lạch cạch và từng dòng chữ
   cứ thế xuất hiện trên màng hình laptop.
-tag: [programming]
 comments: true
 category: programming
+tags:
+- c++
 ---
 
 Chiều rảnh rổi ngồi code vu vơ vài dòng thế là ra được cái chương trình tán gái phong cách developer 😊
