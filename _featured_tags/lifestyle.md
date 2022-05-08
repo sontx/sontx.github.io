@@ -10,5 +10,5 @@ description: >
   So let's set the world on fire:fire:
   We can burn brighter than the sun:sunny:
 accent_color: '#90a878'
-accent_image: /assets/img/sidebar-bg-lifestyle.jpg
+accent_image: /assets/img/sidebar-bg-lifestyle.webp
 ---

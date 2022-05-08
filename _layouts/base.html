@@ -27,7 +27,7 @@ layout: compress
 
 {% if plugins contains 'jekyll-seo-tag' %}
   {% assign color = site.accent_color | default:'#4fb1ba' %}
-  {% assign image = site.accent_image | default:'/assets/img/sidebar-bg.jpg' %}
+  {% assign image = site.accent_image | default:'/assets/img/sidebar-bg.webp' %}
 
   {% if page.categories.size > 0 %}
     {% assign category_name = page.categories.first %}
@@ -49,7 +49,7 @@ layout: compress
 
 {% else %}
   {% assign color = site.accent_color | default:site.color | default:'#4fb1ba' %}
-  {% assign image = site.accent_image | default:site.image | default:'/assets/img/sidebar-bg.jpg' %}
+  {% assign image = site.accent_image | default:site.image | default:'/assets/img/sidebar-bg.webp' %}
 
   {% if page.categories.size > 0 %}
     {% assign category_name = page.categories.first %}
