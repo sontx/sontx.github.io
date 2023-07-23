@@ -108,3 +108,10 @@ pre {
   font-family: Noto sans-serif;
   font-weight: normal;
 }
+
+.center {
+  > img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
