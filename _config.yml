@@ -201,6 +201,9 @@ plugins:
   - jemoji
   - jekyll-admin
 
+jekyll_admin:
+  homepage: "posts"
+
 # Theme
 # ---------------------------------------------------------------------------------------
 

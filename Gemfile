@@ -30,6 +30,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jemoji"
+  gem "fiddle"
+  gem "faraday-retry"
   gem "jekyll-admin", group: :jekyll_plugins
   gem 'github-pages'
 end
